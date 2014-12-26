@@ -1,9 +1,9 @@
 === Pro Recent Comments ===
 Contributors: shambhu patnaik
-Donate link: http://aynsoft.com/
+Donate link: http://socialcms.wordpress.com/
 Tags: pro recent comments widget,widget,custom recent comments,advanced recent comments,pro recent comments,filter recent comments,custmize recent comments,recent comments,filter comments,custom comments
 Requires at least: 2.9
-Tested up to: 3.9
+Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
